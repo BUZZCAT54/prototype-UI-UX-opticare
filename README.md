@@ -3,6 +3,8 @@
 Web app katalog, booking pemeriksaan mata, checkout, dan order tracking OptiCare.
 Mobile-first (kanonik 390×844), responsive sampai desktop, semua alur pelanggan bisa diklik dengan data mock + `localStorage`.
 
+**Live demo:** [Buka OptiCare](https://opticare-sigma.vercel.app/)
+
 ## Menjalankan
 
 ```bash
